@@ -1,17 +1,9 @@
-# Portfólio — Hilmara Costa
+# 💼 Portfólio — Hilmara Costa
 
-Portfólio pessoal desenvolvido em React + Vite + Tailwind, unindo minha trajetória 
-em Eletrotécnica com minha transição para desenvolvimento Front-End.
+Portfólio pessoal desenvolvido em React + Vite + Tailwind CSS, unindo minha trajetória em Eletrotécnica com minha transição para o desenvolvimento Front-End.
 
-🔗 [Ver online](link-do-vercel-aqui)
+🔗 **[Ver portfólio online](#)** ← *substitua pelo link do Vercel após o deploy*
 
-## Tecnologias
-- React
-- Vite
-- Tailwind CSS
+## Sobre
 
-## Rodando localmente
-\`\`\`bash
-npm install
-npm run dev
-\`\`\`
+Técnica em Eletrotécnica com vivência em subestações de média e alta tensão, atualmente cursando Análise e Desenvolvimento de Sistemas e me especializando em Front-End. Este portfólio reúne minha formação, cursos complementares e projetos, incluindo o
