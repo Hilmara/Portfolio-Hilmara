@@ -424,6 +424,14 @@ export default function Portfolio() {
             href="https://github.com/hilmaracosta-blip/Coredrive_Ecosystem"
             accent={tokens.cyan}
           />
+          <ProjectCard
+  title="Trampo"
+  subtitle="Marketplace de Serviços · Cadastro e Busca de Profissionais"
+  description="App para cadastro e busca de profissionais autônomos — eletricistas, diaristas, cuidadoras, técnicos e mais de 1.300 especializações organizadas em 16 categorias. Login por e-mail sem senha, cadastro guiado em 5 passos com consentimento LGPD, e busca por proximidade com autocomplete."
+  tags={["React", "Vite", "Tailwind CSS", "LGPD"]}
+  href="https://github.com/Hilmara/APP_TRAMPO"
+  accent={tokens.teal}
+/>
         </div>
         <p style={{ fontFamily: monoFont, color: tokens.textMuted }} className="text-xs mt-6">
         
