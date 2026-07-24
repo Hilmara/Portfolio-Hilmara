@@ -426,7 +426,7 @@ export default function Portfolio() {
           />
         </div>
         <p style={{ fontFamily: monoFont, color: tokens.textMuted }} className="text-xs mt-6">
-          // próximo: dashboard de manutenção preditiva — Hackathon+ Mineração, ago/2026
+        
         </p>
       </section>
 
